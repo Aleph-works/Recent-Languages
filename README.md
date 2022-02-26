@@ -48,3 +48,10 @@ http://coconut-lang.org/
 
 https://github.com/evhub/coconut
 
+GLOW
+
+https://glow-lang.org/
+
+https://github.com/Glow-Lang/glow
+
+
