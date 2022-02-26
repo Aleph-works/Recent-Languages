@@ -31,3 +31,10 @@ https://github.com/leafo/moonscript
 FREE
 
 https://github.com/adam-mcdaniel/free
+
+MINT
+
+https://www.mint-lang.com/
+
+https://github.com/mint-lang/mint
+
