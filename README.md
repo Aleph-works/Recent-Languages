@@ -10,5 +10,9 @@ BEAGLE
 
 https://github.com/beaglelang/beagle-lang
 
+DHALL
 
+https://dhall-lang.org/
+
+https://github.com/dhall-lang/dhall-lang
 
