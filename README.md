@@ -16,3 +16,11 @@ https://dhall-lang.org/
 
 https://github.com/dhall-lang/dhall-lang
 
+NIM
+
+https://nim-lang.org/
+
+https://github.com/nim-lang/Nim
+
+
+
