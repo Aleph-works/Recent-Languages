@@ -54,4 +54,9 @@ https://glow-lang.org/
 
 https://github.com/Glow-Lang/glow
 
+ELIXIR
+
+https://elixir-lang.org/
+
+https://github.com/elixir-lang/elixir
 
