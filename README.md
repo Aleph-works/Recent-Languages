@@ -96,3 +96,9 @@ https://clojurescript.org/
 
 https://github.com/clojure/clojurescript/
 
+SOLIDITY
+
+https://soliditylang.org/
+
+https://github.com/ethereum/solidity
+
