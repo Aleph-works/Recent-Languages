@@ -1,4 +1,4 @@
-Just a list of emerging programming languages.
+'Scripts' is a list of emerging programming languages.
 
 RUST
 
