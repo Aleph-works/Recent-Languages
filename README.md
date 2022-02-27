@@ -84,3 +84,9 @@ https://www.purescript.org/
 
 https://github.com/purescript/purescript
 
+CLOJURE
+
+https://clojure.org/
+
+https://github.com/clojure/clojure/
+
