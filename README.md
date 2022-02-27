@@ -78,3 +78,9 @@ https://elm-lang.org/
 
 https://github.com/elm/elm-lang.org
 
+PURESCRIPT
+
+https://www.purescript.org/
+
+https://github.com/purescript/purescript
+
