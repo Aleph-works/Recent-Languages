@@ -66,3 +66,9 @@ https://arturo-lang.io/
 
 https://github.com/arturo-lang/arturo
 
+COFFEESCRIPT
+
+https://coffeescript.org/
+
+https://github.com/jashkenas/coffeescript/
+
