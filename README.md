@@ -1,4 +1,4 @@
-'Scripts' is a list (incomplete) of emerging programming languages.
+'Scripts' is a list (incomplete) of emerging programming languages. A short description per each programming language as soon as possible. Suggestions are welcome. Due to the nature of the rep, I do not accept any pull request.
 
 RUST
 
